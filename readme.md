@@ -2,7 +2,7 @@
 
 **Normalized environment variables for Windows XP and up.**
 
-[![npm status](http://img.shields.io/npm/v/windows-env.svg?style=flat-square)](https://www.npmjs.org/package/windows-env) [![Build status](https://img.shields.io/appveyor/ci/vweevers/win-detect-browsers.svg?style=flat-square)](https://ci.appveyor.com/project/vweevers/win-detect-browsers) [![Dependency status](https://img.shields.io/david/vweevers/windows-env.svg?style=flat-square)](https://david-dm.org/vweevers/windows-env)
+[![npm status](http://img.shields.io/npm/v/windows-env.svg?style=flat-square)](https://www.npmjs.org/package/windows-env) [![Build status](https://img.shields.io/appveyor/ci/vweevers/windows-env.svg?style=flat-square)](https://ci.appveyor.com/project/vweevers/windows-env) [![Dependency status](https://img.shields.io/david/vweevers/windows-env.svg?style=flat-square)](https://david-dm.org/vweevers/windows-env)
 
 ## example
 
