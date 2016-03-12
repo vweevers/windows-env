@@ -1,6 +1,6 @@
 {
   "name": "windows-env",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Normalized environment variables for Windows XP and up",
   "license": "MIT",
   "author": {
