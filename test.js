@@ -22,7 +22,7 @@ test('basic', function (t) {
     t.is(env.PROGRAMFILES_X86, 'C:\\Program Files (x86)', 'prog86 ok')
     t.is(env.PROGRAMFILES_X64, 'C:\\Program Files', 'prog64 ok')
   } else {
-    t.is(env.PROGRAMFILES_X86, 'C:\\Program Files (x86)', 'prog86 ok')
+    t.is(env.PROGRAMFILES_X86, 'C:\\Program Files', 'prog86 ok')
     t.is(env.PROGRAMFILES_X64, undefined, 'no prog64')
   }
 
