@@ -8,7 +8,7 @@
     "email": "mail@vincentweevers.nl"
   },
   "scripts": {
-    "test": "tape test/**/*.js"
+    "test": "tape test.js"
   },
   "dependencies": {},
   "devDependencies": {
