@@ -1,0 +1,32 @@
+{
+  "name": "windows-env",
+  "version": "0.0.1",
+  "description": "Normalized environment variables for Windows XP and up",
+  "license": "MIT",
+  "author": {
+    "name": "Vincent Weevers",
+    "email": "mail@vincentweevers.nl"
+  },
+  "scripts": {
+    "test": "tape test/**/*.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~4.5.1"
+  },
+  "keywords": [
+    "appdata",
+    "arch",
+    "env",
+    "programfiles",
+    "userprofile",
+    "windows"
+  ],
+  "engines": {
+    "node": ">=0.10.0",
+    "npm": ">=2.0.0"
+  },
+  "repository": "vweevers/windows-env",
+  "bugs": "https://github.com/vweevers/windows-env/issues",
+  "homepage": "https://github.com/vweevers/windows-env"
+}
